@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Luciano D'Oliveira</h1>
 <h3 align="center">A passionate backend developer and student</h3>
 
-<p></p>
+<br>
 
 - 🌱 I’m currently learning **Java, HTML, CSS, Spring Boot and C++**
 
