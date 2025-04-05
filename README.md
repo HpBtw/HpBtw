@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Java, HTML, CSS, Spring Boot and C++**
 
+- 🎓 Studying **Information System** at **FIAP** with a *full scholarship*
+
 - 📫 How to reach me **lhgodev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/luciano-d-oliveira-8576062b3/](https://www.linkedin.com/in/luciano-d-oliveira-8576062b3/)
