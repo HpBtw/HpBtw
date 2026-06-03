@@ -40,8 +40,8 @@ I am passionate about solving complex problems, designing sound system architect
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HpBtw&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HpBtw&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HpBtw&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HpBtw&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
 
 ### 📫 How to reach me
