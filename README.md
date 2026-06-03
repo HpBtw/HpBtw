@@ -1,20 +1,49 @@
-<h1 align="center">Hello 👋, I'm Luciano D'Oliveira</h1>
-<h3 align="center">A passionate backend developer and student</h3>
-<br>
+# Hello 👋, I'm Luciano D'Oliveira
 
-- 🌱 I’m currently learning **Java, HTML, CSS, Spring Boot and C++**
+**Back-end Developer & Information Systems Student**
 
-- 🎓 Studying **Information System** at **FIAP** with a *full scholarship*
+I am passionate about solving complex problems, designing sound system architectures, and building scalable, cross-platform applications. I am currently pursuing a degree in Information Systems at FIAP (on a full scholarship), and I dedicate my studies to creating robust solutions, from database modeling to final delivery.
 
-- 📫 How to reach me **lhgodev@gmail.com**
+### 🚀 About Me & What I'm Building
+- 💻 **Technical Focus:** System architecture and back-end development using **Java (Spring Boot)** and **Kotlin**, expanding into cross-platform mobile development with **Flutter**.
+- 🏗️ **Featured Projects:**
+  - **Portal Thera:** A web tool for employee management with detailed access profiles (Managers, Buddies, and New Hires).
+  - **SkillUp League:** A corporate learning platform that turns *upskilling* into a gamified journey (XP and badges).
+  - **Kotlin Studies:** A meta-repository structured with *Git Submodules* for the isolation and organization of academic projects.
+- 🌱 **Always Learning:** Integrating hardware solutions with **Arduino** and optimizing queries in relational databases.
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/luciano-d-oliveira-8576062b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano-d-oliveira-8576062b3" height="30" width="40" /></a>
-</p>
+### 🛠️ Tech Stack & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+**Languages**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hpbtw&show_icons=true&theme=dark&locale=en&layout=compact" alt="hpbtw" /></p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hpbtw&show_icons=true&theme=dark&locale=en" alt="hpbtw" /></p>
+**Frameworks & Web**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HpBtw&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HpBtw&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+### 📫 How to reach me
+- 💼 [LinkedIn](insert-your-linkedin-link-here)
+- 📧 lhgodev@gmail.com
