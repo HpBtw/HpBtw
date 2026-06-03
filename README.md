@@ -45,5 +45,5 @@ I am passionate about solving complex problems, designing sound system architect
 </div>
 
 ### 📫 How to reach me
-- 💼 [LinkedIn](insert-your-linkedin-link-here)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luciano-d-oliveira-8576062b3/)
 - 📧 lhgodev@gmail.com
